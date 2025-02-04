@@ -1,5 +1,5 @@
-👋 Hi, I’m Priyanka (@technicalpriyanka)..!
-👀 Interests: I’m passionate about uncovering insights from complex data and leveraging technology to solve real-world challenges. I'm particularly interested in areas like Python, machine learning, Django, SQL.
-🌱 Currently Learning: Deepening my expertise in containerization with Docker & Kubernetes, as well as exploring advanced data analysis techniques and scalable deployment solutions.
-💞️ Looking to Collaborate On: I’m eager to work on projects that push the boundaries of machine learning and cloud engineering, especially those that offer the chance to learn new techniques and explore innovative applications. 
+👋 Hi, I’m Priyanka (@technicalpriyanka)!  
+👀 **Interests:** I love working with Python, Java, Machine learning, Django, and SQL to solve real-world problems.   
+🌱 **Currently Learning:** Exploring Docker, Kubernetes, and advanced data analysis techniques.  
+💞️ **Looking to Collaborate On:** Exciting projects in machine learning and cloud engineering that involve innovation and learning new skills. 
 📫 Reach Me: Let’s connect! You can reach me via GitHub DMs or [LinkedIn]([url](https://www.linkedin.com/in/priyanka-kharade/)).
